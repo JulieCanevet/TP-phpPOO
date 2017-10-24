@@ -1,4 +1,6 @@
 <?php
+
+// ==================== Tentative du 1er TP ===============
 //require 'index_vue.php';
 //require 'index_post.php';
 
@@ -17,6 +19,7 @@
 //	$perso = new Personnage(['name' => $_POST['name']]); // On crée un nouveau personnage.
 //}
 
+// ==================== EXERCICES DES CLIOS ================
 // class Clio {
 // 	protected $_nbPortes;
 // 	protected $_couleur;

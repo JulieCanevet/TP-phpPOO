@@ -1,4 +1,6 @@
 <?php 
+
+// ==================== EXERCICES 1 =============
 // class Ville {
 //     public $_nom;
 //     public $_departement;
@@ -48,7 +50,7 @@
 // $personne1 -> getPersonne();
 
 
-
+// ====================== EXERCICES FORMULAIRE
 // class Form {
 //      private $_entete;
 //      private $_text;
@@ -229,6 +231,7 @@
 //   }
 // }
   
+// =================== EXERCICE PERSONNES - CLIENT - ELECTEUR =============
 // abstract class Personne {
 // 	protected $_nom;
 // 	protected $_prenom;
@@ -264,6 +267,8 @@
 // $electeur = new Electeur('Canevet', 'Julie');
 // $electeur -> avoter();
 
+
+// ====================== EXERCICE VEHICULE -> VOITURE BUS ============
 // class Vehicule {
 // 	protected $_immatriculation;
 // 	protected $_couleur;
@@ -305,6 +310,7 @@
 // $bus -> setEtage(3);
 // $bus -> getDef();
 
+// =========== JEU DE COMBAT TP 2 début) =================
 abstract class Personnage{
 	protected $_id;
 	protected $_nom;
